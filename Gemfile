@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 # Use twitter-bootstrap for styling
 gem 'twitter-bootstrap-rails'
-gem 'devise-bootstrap-views'
+gem 'devise-bootstrap-views', '~> 0.0.11'
 # Fix some text icons that don't appear properly
 gem 'font-awesome-rails'
 
